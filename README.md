@@ -14,7 +14,9 @@
 
 ---
 
-**DESCRIPTION:**
+## **DESCRIPTION:**
+
+
 During my internship, I was assigned **Task: to develop a Chrome Extension** that acts as a **Productivity Tracker**, aiming to **monitor user activity**, **block distracting websites**, and **generate daily productivity reports**. The extension integrates with a **MERN (MongoDB, Express, React, Node.js) stack backend** to store user preferences, sync data across devices, and generate insightful analytics. This task provided valuable experience in **browser extension development**, **full-stack architecture**, and **user-centric product design**.
 
 ---
